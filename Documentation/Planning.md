@@ -1,4 +1,4 @@
-# {Competition Name} - Planning
+# Jigsaw Multilingual Toxic Comment Classification - Planning
  
 ## Working cycle:
 1. Read competition information and relevant content to feel comfortable with the problem. Create a hypothesis based on the problem.
@@ -42,3 +42,6 @@
 - ### Insights:
   - #### Positive Insights
   - #### Negative Insights
+    - Competition labels are heavily unbalanced
+    - Train data has only english text
+    - Validation data has only text on 3 languages while test has 6 languages
