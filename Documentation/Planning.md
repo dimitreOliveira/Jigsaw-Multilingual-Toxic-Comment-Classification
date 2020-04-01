@@ -30,7 +30,8 @@
   - [Solving NLP Problems with BERT | Yuanhao Wu | Kaggle](https://www.youtube.com/watch?v=rQQAIJIf60s)
 
 - ### Kernels:
-  - [kernel 1]()
+  - [igsaw TPU: DistilBERT with Huggingface and Keras](https://www.kaggle.com/xhlulu/jigsaw-tpu-distilbert-with-huggingface-and-keras)
+  - [Jigsaw TPU: XLM-Roberta](https://www.kaggle.com/xhlulu/jigsaw-tpu-xlm-roberta/notebook)
 
 - ### Discussions:
   - [Everything you always wanted to know about BERT (but were afraid to ask)](https://www.kaggle.com/c/google-quest-challenge/discussion/128420)
