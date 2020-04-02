@@ -38,6 +38,7 @@
   - [BERT & Friends Reference](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/126702)
   - [1ST PLACE SOLUTION - Jigsaw competition](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/103280#latest-619135)
   - [Let's Complicate Things [Bert]](https://www.kaggle.com/c/google-quest-challenge/discussion/123770)
+  - [Past (Kaggle) Jigsaw Competitions & Top Solutions](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/138163)
  
 - ### Insights:
   - #### Positive Insights
