@@ -16,6 +16,7 @@
   - [Simple BERT using TensorFlow 2.0](https://towardsdatascience.com/simple-bert-using-tensorflow-2-0-132cb19e9b22)
   - [TF Hub - bert_en_uncased_L-12_H-768_A-12](https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/1)
   - [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html)
+  - [BERT Word Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
 
 - ### GitHub:
   - [Huggingface transformers](https://github.com/huggingface/transformers)
@@ -39,6 +40,7 @@
   - [1ST PLACE SOLUTION - Jigsaw competition](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/103280#latest-619135)
   - [Let's Complicate Things [Bert]](https://www.kaggle.com/c/google-quest-challenge/discussion/123770)
   - [Past (Kaggle) Jigsaw Competitions & Top Solutions](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/138163)
+  - [Insights on achieving 0.9383 without translating data](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/140254)
  
 - ### Insights:
   - #### Positive Insights
