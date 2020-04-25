@@ -8,10 +8,9 @@
 
 ## 1. Literature review (read some kernels and relevant content related to the competition).
 - ### Relevant content:
-  - [BERT - Input](https://huggingface.co/transformers/model_doc/bert.html#bertmodel)
-  - [HuggingFace Transformers](https://huggingface.co/transformers/)
   - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
   - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
+  - [HuggingFace Transformers](https://huggingface.co/transformers/)
   - [Hugging Face: State-of-the-Art Natural Language Processing in ten lines of TensorFlow 2.0](https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a)
   - [Simple BERT using TensorFlow 2.0](https://towardsdatascience.com/simple-bert-using-tensorflow-2-0-132cb19e9b22)
   - [TF Hub - bert_en_uncased_L-12_H-768_A-12](https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/1)
