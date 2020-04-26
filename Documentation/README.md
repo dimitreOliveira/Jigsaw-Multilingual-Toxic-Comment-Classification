@@ -16,6 +16,7 @@
   - [TF Hub - bert_en_uncased_L-12_H-768_A-12](https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/1)
   - [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html)
   - [BERT Word Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
+  - [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
 
 - ### GitHub:
   - [Huggingface transformers](https://github.com/huggingface/transformers)
@@ -23,6 +24,8 @@
 
 - ### Papers:
   - [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583)
+  - [Multi-Sample Dropout for Accelerated Training
+and Better Generalization](https://arxiv.org/pdf/1905.09788.pdf)
 
 - ### Videos:
   - [BERT for Kaggle Competitions | Yuanhae Wu | Kaggle Days](https://www.youtube.com/watch?v=jS79Y8I0DF4&t=9s)
