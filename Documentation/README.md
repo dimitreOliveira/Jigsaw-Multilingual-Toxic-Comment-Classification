@@ -48,6 +48,7 @@ and Better Generalization](https://arxiv.org/pdf/1905.09788.pdf)
  
 - ### Insights:
   - #### Positive Insights
+    - Test set seems to have a 1:5 ratio between positive:negative samples
   - #### Negative Insights
     - Competition labels are heavily unbalanced
     - Train data has only english text
