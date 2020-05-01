@@ -45,6 +45,7 @@ and Better Generalization](https://arxiv.org/pdf/1905.09788.pdf)
   - [Let's Complicate Things [Bert]](https://www.kaggle.com/c/google-quest-challenge/discussion/123770)
   - [Past (Kaggle) Jigsaw Competitions & Top Solutions](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/138163)
   - [Insights on achieving 0.9383 without translating data](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/140254)
+  - [Good Papers on Toxic Comment Classification](https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification/discussion/144097)
  
 - ### Insights:
   - #### Positive Insights
