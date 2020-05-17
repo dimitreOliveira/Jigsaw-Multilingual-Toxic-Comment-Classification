@@ -69,3 +69,16 @@
 | 57-Jigsaw-1Fold-XLM_roBERTa large linear no warmup | ??? | ??? | 0.9221 | ??? |
 | 58-Jigsaw-1Fold-XLM_roBERTa large lbl smoothing 01 | ??? | ??? | 0.9250 | ??? |
 | 59-Jigsaw-1Fold-XLM_roBERTa large lbl smooth 02 | ??? | ??? | 0.9250 | ??? |
+| 60-Jigsaw-Fold1-XLM_roBERTa large cosine decay | 0.987417 | 0.915397 | 0.9112 | ??? |
+| 61-Jigsaw-Fold1-XLM_roBERTa large cosine warmup | 0.982849 | 0.916137 | 0.9007 | ??? |
+| 62-Jigsaw-Fold1-XLM_roBERTa large exponential warm | 0.946594 | 0.922751 | 0.9214 | ??? |
+| 63-Jigsaw-Fold1-XLM_roBERTa large exponential warm | 0.923352 | 0.923352 | 000 | ??? |
+| 64-Jigsaw-Fold1-XLM_roBERTa large exponent upper | ??? | ??? | 0.9229 | ??? |
+| 65-Jigsaw-Fold1-XLM_roBERTa large exponent no tail | ??? | ??? | 0.9230 | ??? |
+| 66-Jigsaw-Fold1-XLM_roBERTa large mixed labels | ??? | ??? | 0.9270 | ??? |
+| 67-Jigsaw-Fold1-XLM_roBERTa large ml data | ??? | ??? | 0.9391 | ??? |
+| 68-Jigsaw-Fold1-XLM_roBERTa large cls token | ??? | ??? | 0.9388 | ??? |
+| 69-Jigsaw-Fold1-XLM_roBERTa large LR 3e-5 | ??? | ??? | 0.9232 | ??? |
+| 70-Jigsaw-Fold1-XLM_roBERTa large pred mixed label | ??? | ??? | 0.9375 | ??? |
+| 71-Jigsaw-Fold1-XLM_roBERTa large focal loss | ??? | ??? | 0.9377 | ??? |
+| 72-Jigsaw-Fold1-XLM_roBERTa large cosine restart | ??? | ??? | 0.4906 | ??? |
