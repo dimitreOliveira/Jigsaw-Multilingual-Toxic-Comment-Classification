@@ -82,3 +82,19 @@
 | 70-Jigsaw-Fold1-XLM_roBERTa large pred mixed label | ??? | ??? | 0.9375 | ??? |
 | 71-Jigsaw-Fold1-XLM_roBERTa large focal loss | ??? | ??? | 0.9377 | ??? |
 | 72-Jigsaw-Fold1-XLM_roBERTa large cosine restart | ??? | ??? | 0.4906 | ??? |
+| 73-Jigsaw-Fold1-XLM_roBERTa large CLS exponential | ??? | 0.920458 | 0.9292 | ??? |
+| 74-Jigsaw-Fold1-XLM_roBERTa large CLS exponential2 | ??? | 0.922624 | 0.9217 | ??? |
+| 75-Jigsaw-Fold1-XLM_roBERTa large CLS tail | ??? | 0.922301 | 0.9403 | ??? |
+| 76-Jigsaw-Fold1-XLM_roBERTa large CLS ml tail | ??? | 0.9232 | 0.9254 | ??? |
+| 77-Jigsaw-Fold1-XLM_roBERTa large CLS 128 | ??? | 0.92202 | 0.9233 | ??? |
+| 78-Jigsaw-Fold1-XLM_roBERTa large CLS 128 tail | ??? | 0.918278 | 0.9367 | ??? |
+| 79-Jigsaw-Fold1-XLM_roBERTa large CLS 128 float | ??? | 0.918036 | 0.9364 | ??? |
+| 80-Jigsaw-Fold1-XLM_roBERTa large 128 high float | ??? | 0.917543 | 000 | ??? |
+| 81-Jigsaw-Fold1-XLM_roBERTa large 128 high int | ??? | 0.918644 | 0.9216 | ??? |
+| 82-Jigsaw-Fold1-XLM_roBERTa large 128 high float08 | ??? | 0.915272 | 0.9220 | ??? |
+| 83-Jigsaw-Fold1-XLM_roBERTa large 128 clean tail | ??? | 0.925274 | 0.9280 | ??? |
+| 84-Jigsaw-Fold1-XLM_roBERTa large 128 alphanumeric | ??? | 0.921053 | 0.9277 | ??? |
+| 85-Jigsaw-Fold1-XLM_roBERTa large 128 best | ??? | 0.921654 | 0.9244 | ??? |
+| 86-Jigsaw-Fold1-XLM_roBERTa large 128 last | ??? | 0.922163 | 0.9187 | ??? |
+| 87-Jigsaw-Fold1-XLM_roBERTa large 128 bs 256 | ??? | 0.920576 | 0.9196 | ??? |
+| 88-Jigsaw-Fold1-XLM_roBERTa large 128 bs 256 | ??? | 0.921483 | 0.9220 | ??? |
