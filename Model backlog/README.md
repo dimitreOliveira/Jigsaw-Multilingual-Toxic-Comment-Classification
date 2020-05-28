@@ -98,3 +98,9 @@
 | 86-Jigsaw-Fold1-XLM_roBERTa large 128 last | ??? | 0.922163 | 0.9187 | ??? |
 | 87-Jigsaw-Fold1-XLM_roBERTa large 128 bs 256 | ??? | 0.920576 | 0.9196 | ??? |
 | 88-Jigsaw-Fold1-XLM_roBERTa large 128 bs 256 | ??? | 0.921483 | 0.9220 | ??? |
+| 89-Jigsaw-Fold1-XLM_roBERTa large 128 int | 0.931689 | 0.918185 | 0.9202 | ??? |
+| 90-Jigsaw-Fold1-XLM_roBERTa large 128 lbl smooth01 | 0.947793 | 0.917091 | 0.9187 | ??? |
+| 91-Jigsaw-Fold1-XLM_roBERTa large 128 last | 0.940337 | 0.915416 | 0.9132 | ??? |
+| 92-Jigsaw-Fold1-XLM_roBERTa large 128 cls hidden11 | 0.942628 | 0.914737 | 0.9218 | ??? |
+| 93-Jigsaw-Fold1-XLM_roBERTa large 128 AVG | 0.944806 | 0.917717 | 0.9206 | ??? |
+| 94-Jigsaw-Fold1-XLM_roBERTa large 128 AVG hidden11 | 0.946852 | 0.918410 | 0.9179 | ??? |
