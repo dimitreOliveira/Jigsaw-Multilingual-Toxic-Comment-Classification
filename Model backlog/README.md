@@ -104,3 +104,14 @@
 | 92-Jigsaw-Fold1-XLM_roBERTa large 128 cls hidden11 | 0.942628 | 0.914737 | 0.9218 | ??? |
 | 93-Jigsaw-Fold1-XLM_roBERTa large 128 AVG | 0.944806 | 0.917717 | 0.9206 | ??? |
 | 94-Jigsaw-Fold1-XLM_roBERTa large 128 AVG hidden11 | 0.946852 | 0.918410 | 0.9179 | ??? |
+| 95-Jigsaw-Fold1-XLM_roBERTa large best | 000 | 0.921937 | 0.9403 | ??? |
+| 96-Jigsaw-Fold1-XLM_roBERTa large 128 best | 000 | 0.918719 | 0.9299 | ??? |
+| 97-Jigsaw-Fold1-XLM_roBERTa large 192 | 0.947843 | 0.923894 | 0.9259 | ??? |
+| 98-Jigsaw-Fold1-XLM_roBERTa large 224 | 0.948865 | 0.927250 | 0.9194 | ??? |
+| 99-Jigsaw-Fold1-XLM_roBERTa large best | 0.951657 | 0.923948 | 0.9400 | ??? |
+| 100-Jigsaw-Fold2-XLM_roBERTa large best | 0.952586 | 0.925539 | 0.9403 | ??? |
+| 101-Jigsaw-Fold3-XLM_roBERTa large best | 0.952752 | 0.924753 | 0.9395 | ??? |
+| 102-Jigsaw-Fold4-XLM_roBERTa large best | 0.952200 | 0.924454 | 0.9407 | ??? |
+| 103-Jigsaw-Fold5-XLM_roBERTa large best | 0.951592 | 0.924500 | 0.9393 | ??? |
+| 104-Jigsaw-Fold1-XLM_roBERTa large best3 | 0.950109 | 0.923406 | 0.9228 | ??? |
+| 105-Jigsaw-Fold1-XLM_roBERTa large best4 | 0.955983 | 0.925805 | 0.9372 | ??? |
