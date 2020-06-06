@@ -115,3 +115,5 @@
 | 103-Jigsaw-Fold5-XLM_roBERTa large best | 0.951592 | 0.924500 | 0.9393 | ??? |
 | 104-Jigsaw-Fold1-XLM_roBERTa large best3 | 0.950109 | 0.923406 | 0.9228 | ??? |
 | 105-Jigsaw-Fold1-XLM_roBERTa large best4 | 0.955983 | 0.925805 | 0.9372 | ??? |
+| 106-Jigsaw-Fold1-XLM_roBERTa large best5 | 0.953012 | 0.923134 | 0.9386 | ??? |
+| 107-Jigsaw-Fold1-XLM_roBERTa large best6 | 0.946119 | 0.923696 | 0.9403 | ??? |
