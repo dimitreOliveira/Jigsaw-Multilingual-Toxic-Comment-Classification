@@ -117,3 +117,26 @@
 | 105-Jigsaw-Fold1-XLM_roBERTa large best4 | 0.955983 | 0.925805 | 0.9372 | ??? |
 | 106-Jigsaw-Fold1-XLM_roBERTa large best5 | 0.953012 | 0.923134 | 0.9386 | ??? |
 | 107-Jigsaw-Fold1-XLM_roBERTa large best6 | 0.946119 | 0.923696 | 0.9403 | ??? |
+| 108-Jigsaw-Fold1-XLM_roBERTa large 128 polish | 0.945167 | 0.921218 | 0.9370 | ??? |
+| 109-Jigsaw-Fold1-XLM_roBERTa large 224 polish | 0.954515 | 0.924343 | 0.9402 | ??? |
+| 110-Jigsaw-Fold1-XLM_roBERTa cosine 4 epochs | 000 | 0.917335 | 0.9068 | ??? |
+| 111-Jigsaw-Fold1-XLM_roBERTa exponential 4 epochs | 000 | 0.921949 | 0.9409 | ??? |
+| 112-Jigsaw-Fold1-XLM_roBERTa exponential best ep | 000 | 0.922049 | 0.9398 | ??? |
+| 113-Jigsaw-Fold1-XLM_roBERTa exponential 3epoch | 000 | 0.924234 | 0.9234 | ??? |
+| 114-Jigsaw-Fold1-XLM_roBERTa exponential 2epochs | 000 | 0.923881 | 0.9220 | ??? |
+| 115-Jigsaw-Fold1-XLM_roBERTa exponential 4 epochs | 000 | 0.919703 | 0.9207 | ??? |
+| 116-Jigsaw-Fold1-XLM_roBERTa exponential 4 epochs | 000 | 0.922264 | 0.9412 | ??? |
+| 117-Jigsaw-Fold1-XLM_roBERTa exponential 4 epochs | 000 | 0.923012 | 0.9290 | ??? |
+| 118-Jigsaw-Fold1-XLM_roBERTa exponential 3 epochs | 000 | 0.921504 | 0.9377 | ??? |
+| 119-Jigsaw-Fold1-XLM_roBERTa exponential 3 epochs | 000 | 0.918649 | 0.9379 | ??? |
+| 120-Jigsaw-Fold1-XLM_roBERTa ratio_1 exp 3 epochs | 000 | 0.921277 | 0.9390 | ??? |
+| 121-Jigsaw-Fold1-XLM_roBERTa ratio_4 exp 3 epochs | 000 | 0.561200 | 0.5372 | ??? |
+| 122-Jigsaw-Fold1-XLM_roBERTa ratio_1 10_warmup | 000 | 0.920408 | 0.9364 | ??? |
+| 123-Jigsaw-Fold1-XLM_roBERTa ratio_1 2_optimizers | 000 | 0.919934 | 0.9362 | ??? |
+| 124-Jigsaw-Fold1-XLM_roBERTa ratio_1 AVG | 000 | 0.913944 | 0.9375 | ??? |
+| 125-Jigsaw-Fold1-XLM_roBERTa ratio_1 MAX | 000 | 0.925247 | 0.9374 | ??? |
+| 126-Jigsaw-Fold1-XLM_roBERTa ratio_1 AVG_MAX | 000 | 0.917274 | 0.9371 | ??? |
+| 127-Jigsaw-Fold1-XLM_roBERTa ratio_1 AVG_MAX norm | 000 | 0.898280 | 0.9281 | ??? |
+| 128-Jigsaw-Fold1-XLM_roBERTa ratio_1 AVG_MAX dropo | 000 | 0.919696 | 0.9419 | ??? |
+| 129-Jigsaw-Fold2-XLM_roBERTa ratio_1 AVG_MAX dropo | 000 | 0.923416 | 0.9398 | ??? |
+| 130-Jigsaw-Fold3-XLM_roBERTa ratio_1 AVG_MAX dropo | 000 | 0.922633 | 0.9357 | ??? |
