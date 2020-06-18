@@ -17,6 +17,7 @@
   - [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html)
   - [BERT Word Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
   - [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
+  - [Multi-Sample Dropout in Keras](https://towardsdatascience.com/multi-sample-dropout-in-keras-ea8b8a9bfd83)
 
 - ### GitHub:
   - [Huggingface transformers](https://github.com/huggingface/transformers)
