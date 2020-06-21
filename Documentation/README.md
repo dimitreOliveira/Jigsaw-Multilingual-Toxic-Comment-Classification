@@ -18,6 +18,7 @@
   - [BERT Word Embeddings Tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
   - [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
   - [Multi-Sample Dropout in Keras](https://towardsdatascience.com/multi-sample-dropout-in-keras-ea8b8a9bfd83)
+  - [Jigsaw Toxicity Classification 1st place solution presentation](https://docs.google.com/presentation/d/1Km1C8jKpofoRRnWRMka-SGrfRNd8jlp6TuasqVKY91E/edit#slide=id.p)
 
 - ### GitHub:
   - [Huggingface transformers](https://github.com/huggingface/transformers)
