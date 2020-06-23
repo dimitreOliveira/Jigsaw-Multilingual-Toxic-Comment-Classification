@@ -1,14 +1,18 @@
 ![](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/blob/master/Assets/banner.png)
 
 ## About the repository
-{Competition abouts}
+This competition was about developing multi-lingual models to classify if comments from forums were toxic or not, the test set had comments on 6 different languages (English, Portugese, Russian, French, Italian and Spanish), for my experiments I manly use [XLM-RoBERTa](https://arxiv.org/abs/1911.02116) a SOTA multi-lingual model form [Huggingface](https://huggingface.co/transformers/model_doc/xlmroberta.html) repository.
 
 ### Published Kaggle kernels:
 
 ### What you will find
-- Documentation [[link]](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/tree/master/Documentation)
-  - Project working cycle and effort, relevant content and insights [[link]](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/blob/master/Documentation/Planning.md)
+- Best solution (Bronze medal - 100th place) [link](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/tree/master/Best%20solution%20(Bronze%20medal%20-%20100th%20place))
+- Datasets [[link]](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/tree/master/Documentation)
+- Documentation [[link]](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/blob/master/Documentation/Planning.md)
 - Models [[link]](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/tree/master/Model%20backlog)
+   - Inference [link](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/tree/master/Model%20backlog/Inference)
+   - Train [link](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/tree/master/Model%20backlog/Train)
+- Scripts [link](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/tree/master/Scripts)
 
 ### Jigsaw Multilingual Toxic Comment Classification
 #### Use TPUs to identify toxicity comments across multiple languages
