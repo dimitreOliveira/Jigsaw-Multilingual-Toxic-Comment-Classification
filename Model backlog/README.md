@@ -154,4 +154,3 @@
 | 142-Fold1-XLM_roBERTa custom head 8-sample dropout | 000 | 0.922390 | 0.9388 | ??? |
 | 143-Fold1-XLM_roBERTa hidden_23 8-sample dropout | 000 | 0.920463 | 0.9406 | ??? |
 | 144-Fold1-XLM_roBERTa cls_hidden_23 8-sample drop | 000 | 0.920163 | 0.9394 | ??? |
-| 145-Fold1-XLM_roBERTa open_sub pretrai 8-samp drop | 000 | 0.925158 | 0.5000 | ??? |
