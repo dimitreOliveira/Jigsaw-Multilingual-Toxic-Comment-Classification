@@ -147,11 +147,11 @@
 | 135-Jigsaw-Fold1-XLM_roBERTa ratio_1 2-sample drop | 000 | 0.915444 | 0.9396 | ??? |
 | 136-Jigsaw-Fold1-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.921630 | 0.9400 | ??? |
 | 137-Jigsaw-Fold1-XLM_roBERTa ratio_1 16sample drop | 000 | 0.913923 | 0.9273 | ??? |
-| 138-Jigsaw-Fold2-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.922340 | 000 | ??? |
-| 139-Jigsaw-Fold3-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.917284 | 000 | ??? |
-| 140-Jigsaw-Fold4-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.921714 | 000 | ??? |
-| 141-Jigsaw-Fold5-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.923529 | 000 | ??? |
-| 142-Fold1-XLM_roBERTa custom head 8-sample dropout | 000 | 0.922390 | 000 | ??? |
-| 143-Fold1-XLM_roBERTa hidden_23 8-sample dropout | 000 | 0.920463 | 000 | ??? |
-| 144-Fold1-XLM_roBERTa cls_hidden_23 8-sample drop | 000 | 0.920163 | 000 | ??? |
-| 145-Fold1-XLM_roBERTa open_sub pretrai 8-samp drop | 000 | 0.925158 | 000 | ??? |
+| 138-Jigsaw-Fold2-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.922340 | 0.9392 | ??? |
+| 139-Jigsaw-Fold3-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.917284 | 0.9397 | ??? |
+| 140-Jigsaw-Fold4-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.921714 | 0.9392 | ??? |
+| 141-Jigsaw-Fold5-XLM_roBERTa ratio_1 8-sample drop | 000 | 0.923529 | 0.9391 | ??? |
+| 142-Fold1-XLM_roBERTa custom head 8-sample dropout | 000 | 0.922390 | 0.9388 | ??? |
+| 143-Fold1-XLM_roBERTa hidden_23 8-sample dropout | 000 | 0.920463 | 0.9406 | ??? |
+| 144-Fold1-XLM_roBERTa cls_hidden_23 8-sample drop | 000 | 0.920163 | 0.9394 | ??? |
+| 145-Fold1-XLM_roBERTa open_sub pretrai 8-samp drop | 000 | 0.925158 | 0.5000 | ??? |
