@@ -4,6 +4,8 @@
 This competition was about developing multi-lingual models to classify if comments from forums were toxic or not, the test set had comments on 6 different languages (English, Portugese, Russian, French, Italian and Spanish), for my experiments I manly use [XLM-RoBERTa](https://arxiv.org/abs/1911.02116) a SOTA multi-lingual model form [Huggingface](https://huggingface.co/transformers/model_doc/xlmroberta.html) repository.
 
 ### Published Kaggle kernels:
+- [Jigsaw - TPU optimized training loops](https://www.kaggle.com/dimitreoliveira/jigsaw-tpu-optimized-training-loops)
+- [Jigsaw Classification - DistilBERT with TPU and TF](https://www.kaggle.com/dimitreoliveira/jigsaw-classification-distilbert-with-tpu-and-tf)
 
 ### What you will find
 - Best solution (Bronze medal - 100th place) [link](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification/tree/master/Best%20solution%20(Bronze%20medal%20-%20100th%20place))
